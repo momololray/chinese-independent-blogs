@@ -837,8 +837,9 @@
 |                                                                                                                                     | 帆域 &#124; 帆帆的个人站           | https://www.fancraft.top              | 学业; 编程; 兴趣; 随笔                                         |
 |                                                                                                                                     | Jieran233's Blog           | https://jieran233.gitee.io/           | 编程; 随笔; 记录                                             |
 |                                                                                                                                     | 暮雪离歌                       | https://bytedancer.vip/               | 编程; 技术; 随笔; 互联网; 技术                                    |
-|                                                                                                                                     | 好墨 - 夏和帆的博客                | https://hao.ink                       | 生活; 书法; 阅读                                             |
-
+|                                                                                                                                     | 好墨 - 夏和帆的博客                | https://hao.ink                       | 生活; 书法; 阅读                                                              |San Gabriel Singer
+|                                                                                                                                                                     |https://sangabrielsinger.com             | 观察, 随笔, 设计, 互联网, 生活
+ 
 ## 什么是独立博客
 
 - 拥有自己的域名
